@@ -1,0 +1,6 @@
+android_app_import {
+    name: "PdfViewer",
+    product_specific: true,
+    presigned: true,
+    apk: "prebuilt/PdfViewer.apk"
+}
